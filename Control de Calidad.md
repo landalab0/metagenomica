@@ -1,11 +1,3 @@
----
-title: "Control de Calidad"
-output: github_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # CONTROL DE CALIDAD
 
