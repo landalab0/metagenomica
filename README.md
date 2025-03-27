@@ -31,4 +31,4 @@ Los objetivos específicos son:
 
 -Para acceder a Amazon Web Services (AWS) consultar [Data Carpentry.](https://carpentries-lab.github.io/metagenomics-analysis/)
 
--Los datos usados en este taller provienen de tres muestras de Sedimento de Cuatro Ciénegas que puedes [descargar aquí.](https://zenodo.org/records/7010950):
+-Los datos usados en este taller provienen de tres muestras de Sedimento de Cuatro Ciénegas que puedes [descargar aquí.](https://zenodo.org/records/7010950)
