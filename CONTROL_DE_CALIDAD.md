@@ -1,4 +1,4 @@
-# CONTROL DE CALIDAD
+# EVALUACIÓN DE CALIDAD
 
 El primer paso en mi Flujo de Trabajo es conocer y analizar la calidad de mis secuencias.
 
