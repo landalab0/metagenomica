@@ -4,7 +4,7 @@ Se define como una interdisciplina experimental y computacional del el análisis
 
 Existen dos tipos de análisis dependiendo de nuestros objetivos metagenómicos
 
-1. Secuenciación de escopeta (shotgun): Se analiza todo el contenido genético de una muestra en un etorno específico
+1. Secuenciación de escopeta (***shotgun***): Se analiza todo el contenido genético de una muestra en un etorno específico
 
 2. Secuencia de Amplicones: Se analiza solo una parte del genoma. En procariotas se usa el ADN ribosomal 16S (16S rDNA) y en eucariotas como lo hongos se usa el DNA ribosomal 18s (18S rDNA) y la región espaciodora transcrita interna (ITS).
 
@@ -22,7 +22,7 @@ Existen dos tipos de análisis dependiendo de nuestros objetivos metagenómicos
 
 -Preparación y secuenciación de bibliotecas 📚: En este paso, los genomas son fragmentados y posteriormente secuenciados por alguna plataforma de secuenciación como Ilumina. ➡️ Para obtener más información acerca de las plataformas de secuenciación puede consultar más información [aquí.](https://www.nature.com/articles/nrmicro2850)
 
--Control de calidad de los datos 👩‍💻: Este paso es crucial ya que genera datos limpios para los análisis posteriores e incluye la eliminación de las secuencias de baja calidad (utilizando la puntuación de Phred \<30) así como la eliminación cebadores y adaptadores. Generealmente se usa el software *Trimmomatic* para este paso.
+-Control de calidad de los datos 👩‍💻: Este paso es crucial ya que genera datos limpios para los análisis posteriores e incluye la eliminación de las secuencias de baja calidad (utilizando la puntuación de Phred \<30) así como la eliminación cebadores y adaptadores. Generalmente se usa el software *Trimmomatic* para este paso.
 
 -Ensamblaje 💻: Este paso consiste en reconstruir genomas completos a partir de secuencias contiguas (*Contigs*)
 
