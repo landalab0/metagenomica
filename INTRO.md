@@ -32,11 +32,11 @@ Existen dos tipos de análisis dependiendo de nuestros objetivos metagenómicos
 
 ## Aplicaciones ✔️
 
-La metagenómica resulta útil para caracterizar a las comunidades microbianas cultivables y no cultivables, tanto taxonómicamente como su potencial funcional en un ambiente particular. Por ejemplo, estos análisis pueden ser útiles en cuestiones clínicas como la el moniterio de la resistencia a los antibióticos o en aspectos ecológicos que incluyen la biodiversidad y las funciones biológicas que pueden desempeñar en los ecosistemas.
+La metagenómica resulta útil para caracterizar a las comunidades microbianas cultivables y no cultivables, tanto taxonómicamente como su potencial funcional en un ambiente particular. Por ejemplo, estos análisis pueden ser útiles en cuestiones clínicas como el moniterio de la resistencia a los antibióticos o en aspectos ecológicos que incluyen la biodiversidad y las funciones biológicas que pueden desempeñar en los ecosistemas.
 
 ## Limitaciones ❌
 
-A pesar de los alcances que puede tener la metagenómica estos análisis resultan costosos, pueden abarcar mucho tiempo y tener atlos niveles de contaminación por cloroplastos, mitocondrias, ribosomas y otros elementos de amplificación no específica
+A pesar de los alcances que puede tener la metagenómica estos análisis resultan costosos, pueden abarcar mucho tiempo y tener altos niveles de contaminación por cloroplastos, mitocondrias, ribosomas y otros elementos de amplificación no específica.
 
 ### Referencias
 
